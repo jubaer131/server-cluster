@@ -18,4 +18,4 @@
 
 * Backend: Node.js, Express.js (or similar).
 * Frontend: HTML5, CSS3, JavaScript.
-* Database: MongoDB for storing travel data and customer info.
+* Database: MongoDB 
